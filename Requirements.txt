@@ -1,0 +1,6 @@
+Numpy
+Pandas
+tensorflow
+keras
+streamlit
+Pickle
